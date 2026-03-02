@@ -20,5 +20,5 @@ These are needed for configuration:
 API_ID =            # Replace with your api_id from my.telegram.org
 API_HASH = ""  # Replace with your api_hash from my.telegram.org
 
-# The forum group: use numeric ID like -1001234567890 or username like "mygroup". One can find the channel numerical ID at: https://web.telegram.org/ in the URL.
+The forum group: use numeric ID like -1001234567890 or username like "mygroup". One can find the channel numerical ID at: https://web.telegram.org/ in the URL.
 FORUM_ID = 
