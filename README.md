@@ -17,7 +17,9 @@ These are needed for configuration:
 
 # CONFIGURATION 
 API_ID =    55325        # Replace with your api_id from my.telegram.org`
+
 `API_HASH = "5543234541322556"  # Replace with your api_hash from my.telegram.org`
 
 `The forum group: use numeric ID like -1001234567890 or username like "mygroup". One can find the channel numerical ID at: https://web.telegram.org/ in the URL.`
+
 `FORUM_ID =  -100045423230230
