@@ -15,7 +15,7 @@ options to accept the telegram api id, api hash, and channel number in the param
 
 These are needed for configuration:
 
-# ─── CONFIGURATION ───────────────────────────────────────────────────────────
+# CONFIGURATION 
 
 API_ID =            # Replace with your api_id from my.telegram.org
 API_HASH = ""  # Replace with your api_hash from my.telegram.org
